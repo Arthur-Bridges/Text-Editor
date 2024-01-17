@@ -13,8 +13,7 @@
 
 ## Description
 
-Hello, my name is Arthur, and I would like to present you a backend for a social network which allows you to manipulate user info and interact with other users.
-
+Hello, my name is Arthur, and I would like to present you a text-editor for which you can use offline.
 ## Installation
 
 N/A
@@ -23,42 +22,17 @@ N/A
 
 Usage for this web application is very simple.
 
-1. **Users**
+1. **Edit Text**
 
--Create a user.
+- Edits text online and offline
 
--Retrieve all users.
-
--Retrieve user by ID.
-
--Update an existing user.
-
--Delete an existing user.
-
-2. **Thoughts**
-
--Create a thought.
-
--Retrieve all thoughts.
-
--Retrieve thought by ID.
-
--Update an existing thought.
-
--Delete an existing thought.
-
-3. **Reactions**
-
--Create a reaction.
-
--Delete an existing reaction.
 
 ## Credits
 
 Created by:  
 Arthur Bridges (https://github.com/Arthur-Bridges),
 
-Created with the use of Javascript, Node, Webpack.
+Created with the use of Javascript, Node, Webpack, Babel, and Express. 
 
 ## License
 
@@ -66,7 +40,7 @@ N/A
 
 ## Deployment
 
-Video of deployed App: 
+Photos of deployed App: 
 
 Site:
 
