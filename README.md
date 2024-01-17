@@ -40,7 +40,9 @@ N/A
 
 ## Deployment
 
-Photos of deployed App: 
+Photos of deployed App: <img width="1440" alt="Screenshot 2024-01-16 at 11 22 33 PM" src="https://github.com/Arthur-Bridges/Text-Editor/assets/78990603/cdd3e22e-7b3b-4903-ba67-ca3d0815b235">
+
+<img width="1440" alt="Screenshot 2024-01-16 at 11 24 07 PM" src="https://github.com/Arthur-Bridges/Text-Editor/assets/78990603/a4d77926-95cf-4c20-8893-35d9b98a59c2">
 
 Site:
 
