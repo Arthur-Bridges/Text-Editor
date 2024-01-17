@@ -21,7 +21,7 @@ module.exports = () => {
       }),
       new InjectManifest({
         swSrc: "./src-sw.js",
-        swDest: "src-sw.js",
+        swDest: "service-worker.js",
       }),
       new WebpackPwaManifest({
         name: "Arthur's text editor",
@@ -31,6 +31,8 @@ module.exports = () => {
         theme_color: "#ffffff",
         fingerprints: false,
         inject: true,
+        start_url: "./",
+        publicPath: "./",
         ios: true,
         icons: [
           {
