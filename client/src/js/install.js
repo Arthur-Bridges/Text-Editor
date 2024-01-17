@@ -19,11 +19,14 @@ buttonInstall.addEventListener("click", async () => {
     console.log(`User choice: ${choice}`);
   } else {
     //TODO: Disable the button by changing state.
+    buttonState = null;
   }
   //TODO: Make the button disappear after it's rendered.
+  buttonInstall.style.display = "none";
 });
 
 // TODO: Add an handler for the `appinstalled` event
 window.addEventListener("appinstalled", (event) => {
   // TODO: logic updating the UI with a message.
+  console.log('PWA has been installed');
 });
